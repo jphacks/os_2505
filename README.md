@@ -1,6 +1,7 @@
 # 前を向いて歩こう
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2025/05/JPHACKS2025_ogp.jpg)](https://www.youtube.com/watch?v=lA9EluZugD8)
+<img width="1920" height="1080" alt="JuMiNer_1" src="https://github.com/user-attachments/assets/c39b8ac5-7f87-4dde-8ed4-a378b3da1f44" />
+
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
