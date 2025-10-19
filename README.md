@@ -87,7 +87,7 @@ NTTドコモ モバイル社会研究所の実態調査によると、4割以上
 ## 参考
 ### デモ動画リンク
 
-https://www.youtube.com/watch?v=BHhpcb8nIDI
+https://youtu.be/Qn51z2EV5Ic?si=rOwxWYA50znY0R1E
 
 apkファイル（未デプロイなのでセキュリティ上の問題からダウンロードは未推奨です）
 
