@@ -79,3 +79,9 @@ NTTドコモ モバイル社会研究所の実態調査によると、4割以上
 * 省電力・快適性の工夫
 
   状態変化時のみオーバーレイの add/remove を行い、無駄な再描画やトグルを抑制。通知は低重要度チャンネルで常駐。
+
+##参考
+デモ動画リンク
+
+apkファイル（未デプロイなのでセキュリティ上の問題からダウンロードは未推奨です）
+https://drive.google.com/file/d/1J-SfHibOaDnI27V1ail8_NMdbOCoavQ6/view?usp=sharing
