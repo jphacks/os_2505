@@ -26,7 +26,7 @@ NTTドコモ モバイル社会研究所の実態調査によると、4割以上
 本製品はスマホ（現在はAndroid限定）上で動作するアプリケーションで、大きく分けて以下の3つの機能を持っています。
 ### 機能
 #### 1. 機能1　　　　歩行時にスマホが下を向いている時は、スマホの使用をロック
-<img width="2475" height="2409" alt="JuMiNer_2" src="https://github.com/user-attachments/assets/4b6d3782-8cb5-450e-8d19-a89e6af10707" />
+   <img width="2475" height="2409" alt="JuMiNer_2" src="https://github.com/user-attachments/assets/4b6d3782-8cb5-450e-8d19-a89e6af10707" />
 #### 2. 機能2　　　　歩行時にスマホが前を向いている時は、スマホは使用可能
 #### 3. 機能3　　　　停止時はいつも通りに使用可能
 
