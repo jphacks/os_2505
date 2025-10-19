@@ -1,7 +1,7 @@
 # 前を向いて歩こう
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2025/05/JPHACKS2025_ogp.jpg)](https://www.youtube.com/watch?v=lA9EluZugD8)
-test
+
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
 「歩きスマホ」は、人や物との衝突や転倒を引き起こすだけでなく、最悪の場合には電車・自動車との接触事故など命に関わる危険行為となり、大きな社会問題となっています。
